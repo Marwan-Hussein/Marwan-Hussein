@@ -11,9 +11,10 @@ I'm A FullStack .NET developer
 ![](https://github-readme-stats.vercel.app/api?username=Marwan-Hussein&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Marwan-Hussein&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Marwan-Hussein&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img align="right" height="180" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif"  />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!--### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)-->
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Marwan-Hussein&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -22,8 +23,5 @@ I'm A FullStack .NET developer
 [![](https://visitcount.itsvg.in/api?id=Marwan-Hussein&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-###
-
-<img align="right" height="180" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif"  />
 
 ###
