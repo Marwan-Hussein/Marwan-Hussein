@@ -1,5 +1,10 @@
 # 💫 About Me:
-Full stack .NET | Data Sceince
+🧑🏻‍💻 I’m a student at the Faculty of Computers and AI in Cairo University (FCAI-CU).
+📈 Information System Department.
+🧩 Interesting in software development.
+🌐 Worked on several projects web development and database design.
+🏫 I’m always eager to learn, improve my skills, and work on real projects. 
+👀 Helping people by solving real problems that they.
 
 
 ## 🌐 Socials:
