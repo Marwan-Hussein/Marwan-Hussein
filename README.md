@@ -19,11 +19,8 @@
 ---
 
 # 📊 GitHub Stats:
-<div align="center">
-    <img src="https://streak-stats.demolab.com?user=Marwan-Hussein&locale=en&mode=daily&theme=neon&hide_border=true&border_radius=20&order=3" height="220" alt="streak graph" /> <br>
-<\div>
   
-<!--![](https://github-readme-stats.vercel.app/api?username=Marwan-Hussein&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Marwan-Hussein&theme=github-dark-blue&hide_border=true&card_width=520&card_height=210)](https://git.io/streak-stats)
 ![](https://nirzak-streak-stats.vercel.app/?user=Marwan-Hussein&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Marwan-Hussein&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <img align="right" height="180" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif"  />
