@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑🏻‍💻 I’m a student at the Faculty of Computers and AI in Cairo University (FCAI-CU).<br>
+🧑🏻‍💻 Student at the Faculty of Computers and AI in Cairo University (FCAI-CU).<br>
 📈 Information System Department.<br>
 🧩 Interesting in software development.<br>
 🌐 Worked on several projects web development and database design.<br>
