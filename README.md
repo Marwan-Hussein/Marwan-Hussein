@@ -20,10 +20,12 @@
 
 # 📊 GitHub Stats:
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Marwan-Hussein&show_icons=true&theme=dark&hide_border=true" height="210" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Marwan-Hussein&layout=compact&theme=dark&hide_border=true" height="210" />
+  &nbsp;&nbsp;
+  <img align="right" height="180" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif"  />
 </p>
     
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Marwan-Hussein&theme=github-dark-blue&hide_border=true&card_width=520&card_height=210)](https://git.io/streak-stats)
@@ -31,7 +33,6 @@
 <!-- NOT VISIABLE
 ![](https://nirzak-streak-stats.vercel.app/?user=Marwan-Hussein&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Marwan-Hussein&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
-<img align="right" height="180" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif"  />
 
 <!--### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)-->
