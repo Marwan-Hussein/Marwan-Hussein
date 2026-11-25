@@ -32,21 +32,42 @@
 
 # 🚀 Projects
 
-| Name | Short description | Tech stack |
-|---|---|---|
-| [Forsa](https://github.com/Marwan-Hussein/Forsa) | Event platform for organizers, venue owners, and attendees, with booking and calendar integrations. | .NET 8, React, TypeScript, Entity Framework Core, SQL, Redis, SignalR |
-| [Ro2ya](https://github.com/Marwan-Hussein/Ro2ya) | AI-powered desktop app for controlling a computer with hand gestures. | .NET MAUI, Python, FastAPI, MediaPipe, PyTorch, ASP.NET Core, SQLite |
-| [City Logistics](https://github.com/Marwan-Hussein/CityLogistics) 🔒 | AI-assisted customer-service workflow demo for classifying, routing, and drafting replies to queries. | React, TypeScript, TanStack Start, Tailwind CSS, OpenAI SDK, Hugging Face |
-| [Servixa](https://github.com/Marwan-Hussein/Servixa) | Web app introducing and connecting customers with home services. | C#, .NET, ASP.NET Core |
-| [My Portfolio](https://github.com/Marwan-Hussein/My-portfolio) 🔒 | Personal portfolio with a contact form and visitor count. | Next.js 15, React, Tailwind CSS, EmailJS, Upstash Redis, Netlify |
-| [Hemodialysis Yashfi Backend](https://github.com/Marwan-Hussein/Hemodialysis-Yashfi-Backend) 🔒 | API for a dialysis coaching and treatment-adherence mobile health platform. | Node.js, Express, SQL Server, MongoDB, Clean Architecture |
-| [Personal Blogs Platform](https://github.com/Marwan-Hussein/Personal-Blogs-Platform) 🔒 | Backend for user accounts and managing personal blog posts. | Node.js, Express, JWT, Zod |
-| [Files Handler Components](https://github.com/Marwan-Hussein/FilesHandler_pyComponents) 🔒 | Reusable command-line components for audio and video editing workflows. | Python, command-line media tools |
-| [Hnefatafl Game](https://github.com/Marwan-Hussein/Hnefatafl-Game) | Desktop version of the Viking strategy game, with a single-player AI opponent. | Python, Tkinter |
-| [Flight Reservations](https://github.com/Marwan-Hussein/Flight-Reservations) | Desktop app for managing flight bookings and reservations. | Python, Tkinter, SQLite |
-| [CPU Scheduler Simulator](https://github.com/Mohamed-Ehab-Sabry/cpu-scheduler-simulator-java) *(contribution)* | Simulates CPU scheduling algorithms, including SJF, Round Robin, Priority, and AG scheduling. | Java |
+| Name | Date (created) | Short description | Tech stack |
+|---|---|---|---|
+| [ML Individual](https://github.com/Marwan-Hussein/ML-Individual) 🔒 | 2026-11-24 | Description to be added. | Jupyter Notebook |
+| [Al-Amin](https://github.com/Marwan-Hussein/Al-Amin) 🔒 | 2026-09-22 | Description to be added. | HTML |
+| [Files Handler Components](https://github.com/Marwan-Hussein/FilesHandler_pyComponents) 🔒 | 2026-09-20 | Reusable Python components for audio and video processing workflows. | Python, command-line media tools |
+| [City Logistics](https://github.com/Marwan-Hussein/CityLogistics) 🔒 | 2026-09-06 | AI-assisted customer-service workflow demo for classifying, routing, and drafting replies to queries. | React, TypeScript, TanStack Start, Tailwind CSS, OpenAI SDK, Hugging Face |
+| [Hemodialysis Yashfi Backend](https://github.com/Marwan-Hussein/Hemodialysis-Yashfi-Backend) 🔒 | 2026-08-23 | API for a dialysis coaching and treatment-adherence mobile health platform introduced for the Egyptian Renal Dialysis System (ERDS). | Node.js, Express, SQL Server, MongoDB, Clean Architecture |
+| [Forsa Frontend](https://github.com/Marwan-Hussein/Forsa-Frontend) 🔒 | 2026-07-03 | Frontend repository for the Forsa event-management platform. | TypeScript |
+| [Ro2ya](https://github.com/Marwan-Hussein/Ro2ya) | 2026-06-20 | AI-powered desktop app for controlling a computer with hand gestures. | .NET MAUI, Python, FastAPI, MediaPipe, PyTorch, ASP.NET Core, SQLite |
+| [DWH E-Commerce Project](https://github.com/Abd-elrahman10/DWH-E-Commerce-Project) *(contribution)* | 2026-05-08 | End-to-end online shop data warehouse with ETL and analytics. | SQL Server 2022, SSIS, SSMS, Power BI |
+| [Hnefatafl Game](https://github.com/Marwan-Hussein/Hnefatafl-Game) | 2026-05-03 | Desktop version of the Viking strategy game, with a single-player AI opponent. | Python, Tkinter |
+| [Servixa](https://github.com/marinaemade/servixa) *(contribution)* | 2026-05-02 | Description to be added. | JavaScript |
+| [Inverted Index IR](https://github.com/Marwan-Hussein/InvertedIndexIR) 🔒 | 2026-04-18 | Description to be added. | Java |
+| [Servixa](https://github.com/Marwan-Hussein/Servixa) | 2026-04-12 | Web app introducing and connecting customers with home services. | C#, .NET, ASP.NET Core |
+| [Audacity](https://github.com/Marwan-Hussein/audacity) *(fork)* | 2026-03-28 | Personal version of the Audacity audio editor. | C++ |
+| [LibraryLens](https://github.com/Ahmed-3bdellatif/LibraryLens) *(contribution)* | 2026-03-08 | Prolog system for analyzing university library data and identifying borrowing, rating, and topic trends. | Prolog |
+| [Exam System](https://github.com/Marwan-Hussein/Exam-System) | 2026-02-26 | Description to be added. | C# |
+| [Forsa](https://github.com/Marwan-Hussein/Forsa) | 2026-02-15 | Event platform for organizers, venue owners, and attendees, with booking and calendar integrations. | .NET 8, React, TypeScript, Entity Framework Core, SQL, Redis, SignalR |
+| [DEPI Round 4 .NET](https://github.com/Marwan-Hussein/DEPI-Round4---.NET) | 2026-01-26 | Collection of tasks and exercises from the DEPI Round 4 .NET training program. | C#, .NET, ASP.NET Core, HTML, CSS |
+| [CPU Scheduler Simulator](https://github.com/Mohamed-Ehab-Sabry/cpu-scheduler-simulator-java) *(contribution)* | 2025-12-11 | Simulates CPU scheduling algorithms, including SJF, Round Robin, Priority, and AG scheduling. | Java |
+| [CarWash GUI](https://github.com/Marwan-Hussein/CarWash-GUI) | 2025-12-08 | Description to be added. | Java |
+| [Restaurant Ordering and Billing System](https://github.com/Marwan-Hussein/Restaurant-Ordering-Billing-System) 🔒 | 2025-11-23 | Description to be added. | Java |
+| [CarWash Simulation](https://github.com/Marwan-Hussein/CarWash-Simulation) 🔒 | 2025-10-27 | Description to be added. | Java |
+| [Simple Terminal](https://github.com/Marwan-Hussein/Simple-Terminal) | 2025-10-15 | Simple terminal implementation with command support. | Java |
+| [Flight Reservations](https://github.com/Marwan-Hussein/Flight-Reservations) | 2025-06-29 | Desktop app for managing flight bookings and reservations. | Python, Tkinter, SQLite |
+| [Investment Software Engineering Project](https://github.com/Marwan-Hussein/software-engineering-project-Investment-) 🔒 | 2025-05-06 | Java software engineering project connected to a database. | Java, SQL |
+| [SWE Task](https://github.com/Marwan-Hussein/SWE-task) 🔒 | 2025-05-05 | Description to be added. | Stack details to be added |
+| [Tic-Tac-Toe Games](https://github.com/Marwan-Hussein/Tic-Tac-Toe-Games) 🔒 | 2024-12-05 | Collection of tic-tac-toe variants with human, random, and AI players. | C++ |
+| [Vole Machine](https://github.com/Marwan-Hussein/Vole-Machine) 🔒 | 2024-09-29 | Description to be added. | C++ |
+| [Baby Photoshop](https://github.com/Marwan-Hussein/Baby-Photoshop) 🔒 | 2024-03-26 | Description to be added. | C++ |
+| [A2-T2](https://github.com/Marwan-Hussein/A2-T2) | 2024-03-21 | Description to be added. | C++ |
+| [Number Scrabble Game](https://github.com/Marwan-Hussein/Number-Scrabble-Game) 🔒 | 2024-03-10 | Number Scrabble game implementation. | Python |
+| [Fractions Calculator](https://github.com/Marwan-Hussein/Fractions-Calculator) 🔒 | 2024-03-09 | Description to be added. | C++ |
+| [Excalidraw](https://github.com/excalidraw/excalidraw) *(issue contribution)* | 2020-01-02 | Open-source virtual whiteboard; contributed a feature suggestion. | TypeScript, React |
 
-🔒 = private repository.
+Dates are repository creation dates; 🔒 marks private repositories.
 
 ---
 
