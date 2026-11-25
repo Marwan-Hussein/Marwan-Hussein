@@ -30,6 +30,26 @@
    
 ---
 
+# 🚀 Projects
+
+| Name | Short description | Tech stack |
+|---|---|---|
+| [Forsa](https://github.com/Marwan-Hussein/Forsa) | Event platform for organizers, venue owners, and attendees, with booking and calendar integrations. | .NET 8, React, TypeScript, Entity Framework Core, SQL, Redis, SignalR |
+| [Ro2ya](https://github.com/Marwan-Hussein/Ro2ya) | AI-powered desktop app for controlling a computer with hand gestures. | .NET MAUI, Python, FastAPI, MediaPipe, PyTorch, ASP.NET Core, SQLite |
+| [City Logistics](https://github.com/Marwan-Hussein/CityLogistics) 🔒 | AI-assisted customer-service workflow demo for classifying, routing, and drafting replies to queries. | React, TypeScript, TanStack Start, Tailwind CSS, OpenAI SDK, Hugging Face |
+| [Servixa](https://github.com/Marwan-Hussein/Servixa) | Web app introducing and connecting customers with home services. | C#, .NET, ASP.NET Core |
+| [My Portfolio](https://github.com/Marwan-Hussein/My-portfolio) 🔒 | Personal portfolio with a contact form and visitor count. | Next.js 15, React, Tailwind CSS, EmailJS, Upstash Redis, Netlify |
+| [Hemodialysis Yashfi Backend](https://github.com/Marwan-Hussein/Hemodialysis-Yashfi-Backend) 🔒 | API for a dialysis coaching and treatment-adherence mobile health platform. | Node.js, Express, SQL Server, MongoDB, Clean Architecture |
+| [Personal Blogs Platform](https://github.com/Marwan-Hussein/Personal-Blogs-Platform) 🔒 | Backend for user accounts and managing personal blog posts. | Node.js, Express, JWT, Zod |
+| [Files Handler Components](https://github.com/Marwan-Hussein/FilesHandler_pyComponents) 🔒 | Reusable command-line components for audio and video editing workflows. | Python, command-line media tools |
+| [Hnefatafl Game](https://github.com/Marwan-Hussein/Hnefatafl-Game) | Desktop version of the Viking strategy game, with a single-player AI opponent. | Python, Tkinter |
+| [Flight Reservations](https://github.com/Marwan-Hussein/Flight-Reservations) | Desktop app for managing flight bookings and reservations. | Python, Tkinter, SQLite |
+| [CPU Scheduler Simulator](https://github.com/Mohamed-Ehab-Sabry/cpu-scheduler-simulator-java) *(contribution)* | Simulates CPU scheduling algorithms, including SJF, Round Robin, Priority, and AG scheduling. | Java |
+
+🔒 = private repository.
+
+---
+
 # 💻 Tech Stack:
 ### Programming Languages:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
