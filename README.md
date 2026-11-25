@@ -1,4 +1,5 @@
 # 💫 About Me:
+🧑‍💻 Fullstack Engineer @LyRise.ai<br>
 🧑🏻‍💻 Faculty of Computers and AI in Cairo University (FCAI-CU).<br>
 🧑‍🎓 Graduate 2027.<br>
 📈 Information System Department.<br>
@@ -17,7 +18,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marwan-hussein) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marwan.hussein.450@gmail.com) 
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-%D14836.svg?logo=Whatsapp&logoColor=white)](https://wa.me/qr/BQP37VAJ5RB4J1) 
-[![Facebook](https://img.shields.io/badge/Facebook-0766FF.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1BoWnD2wtk/)<br>
+[![Facebook](https://img.shields.io/badge/Facebook-0766FF.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1BoWnD2wtk/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
+<br>
 
 ### Job and Freelancing
 [![MyPortfolio](https://img.shields.io/badge/My%20Portfolio-AA1BFF.svg)](https://marwan-hussein.vercel.app/portfolio-dashboard) 
@@ -50,22 +53,27 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ### Full-Stack Development:
+
+![NodeJs](https://img.shields.io/badge/NodeJs-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Laravel](https://img.shields.io/badge/laravel-%23FB6B61.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 <br>
 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![SQL](https://img.shields.io/badge/sql-%23379AD8.svg?style=for-the-badge&logo=sql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2340739A.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-2F94D2.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-047C7B.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgre](https://img.shields.io/badge/postgresql-336691.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Data Analysis
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+<br>
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![MonsterASP](https://img.shields.io/badge/MonsterASP-8010E9?style=for-the-badge&logo=monsterasp&logoColor=white)
+![SupaBase](https://img.shields.io/badge/SupaBase-4DC78C?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
